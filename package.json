@@ -1,0 +1,17 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "luizp <luizpaulorodrigues2005@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cnpj": "^4.0.3",
+    "cpf": "^2.0.1"
+  }
+}
